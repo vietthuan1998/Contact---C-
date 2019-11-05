@@ -7,5 +7,3 @@ C:\Users\USER\source\repos\Baikiemtranhom1\Baikiemtranhom1\obj\Debug\Baikiemtran
 C:\Users\USER\source\repos\Baikiemtranhom1\Baikiemtranhom1\obj\Debug\Baikiemtranhom1.csproj.GenerateResource.cache
 C:\Users\USER\source\repos\Baikiemtranhom1\Baikiemtranhom1\obj\Debug\Baikiemtranhom1.exe
 C:\Users\USER\source\repos\Baikiemtranhom1\Baikiemtranhom1\obj\Debug\Baikiemtranhom1.pdb
-C:\Users\USER\source\repos\Baikiemtranhom1\Baikiemtranhom1\bin\Debug\DATA\dsthanhvien.txt
-C:\Users\USER\source\repos\Baikiemtranhom1\Baikiemtranhom1\bin\Debug\DATA\dsnhom.data

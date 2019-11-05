@@ -53,7 +53,7 @@ namespace Baikiemtranhom1
 
         private void btnthemnhom_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void btnthemlienlac_Click(object sender, EventArgs e)
