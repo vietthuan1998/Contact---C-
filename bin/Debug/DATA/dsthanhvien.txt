@@ -1,0 +1,9 @@
+﻿Học tập;Dương Viết Thuận;vietthuan1998@gmail.com;0935292231;Quảng Bình
+Học tập;Dương Thị Thu Hà;;0935094208;Hà Nội
+Học tập;Cái Trịnh Minh Quốc;vietthuan1998@gmail.com;0935292231;Hà Nội
+Ăn chơi;Nguyễn Thị Kim Thoa;;0935292231;Đà Nẵng
+Ăn chơi;Nguyễn Thị Ngọc Diệu;vietthuan1998@gmail.com;0935292231;Huế
+Ăn chơi;Trần Thị Diệu Hồng;hongmun@gmail.com;0935292231;Quảng Nôm
+Ăn nhậu;Võ Ngọc Bình Phương;vietthuan1998@gmail.com;0935292231;Quảng Bình
+Ăn nhậu;Trần Ngọc Viện;vietthuan1998@gmail.com;0935292231;Huế
+Ăn nhậu;Nguyễn Quang Thái;vietthuan1998@gmail.com;0935292231;Huế
